@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="">05eec89947d70210b52beb0f316d434f</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 16:09:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>15eec8996cd70210ec224592255fe5d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_ux_page_property_15eec8996cd70210ec224592255fe5d8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 16:09:17</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1464392_servic_0.05eec89947d70210b52beb0f316d434f.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+        "reload":true,&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</application>
+        <file_path/>
+        <instance_id>c7d9062fdb127d9002d9172913961950</instance_id>
+        <instance_name>dev210842</instance_name>
+        <name>sys_ux_page_property_15eec8996cd70210ec224592255fe5d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_menu_actions</name><page display_value="">05eec89947d70210b52beb0f316d434f</page><required_translations>[{"message":"Report issue","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 16:09:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>15eec8996cd70210ec224592255fe5d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_menu_actions</sys_name><sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package><sys_policy/><sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope><sys_update_name>sys_ux_page_property_15eec8996cd70210ec224592255fe5d8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 16:09:17</sys_updated_on><type>json</type><unique_name>x_1464392_servic_0.05eec89947d70210b52beb0f316d434f.root.chrome_menu_actions</unique_name><value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+        "reload":true,&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>899119186</payload_hash>
+        <record_name>chrome_menu_actions</record_name>
+        <reverted_from/>
+        <source>e901f40047130210b52beb0f316d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-07-04 21:25:55</sys_created_on>
+        <sys_id>38df041d47d70210b52beb0f316d4311</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1907fa3bab80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>f4df041d48d7021062b56a1f34b96a11</update_guid>
+        <update_guid_history>f4df041d48d7021062b56a1f34b96a11:899119186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 16:13:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>327b048bda0c45349696fa93b0334f64</sys_id>
+        <sys_metadata>15eec8996cd70210ec224592255fe5d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_scope_delete display_value="">290526a5ddd240ba9b1138838a9cc5a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_15eec8996cd70210ec224592255fe5d8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_15eec8996cd70210ec224592255fe5d8">38df041d47d70210b52beb0f316d4311</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 16:13:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="69fc53c927d30210d990e558e5f731e7" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1464392_servic_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-07-08 12:31:04</sys_created_on>
+            <sys_id>2dfc53c9e2d30210ece2d00a98db03e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="69fc53c9e3d30210add1e4cdf23320e6">69fc53c927d30210d990e558e5f731e7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-07-08 12:31:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-07-08 12:31:04</sys_created_on>
+            <sys_id>25fc53c91ed302106b093f20bcddbbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="69fc53c9e3d30210add1e4cdf23320e6">69fc53c927d30210d990e558e5f731e7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-07-08 12:31:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-07-08 12:31:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69fc53c927d30210d990e558e5f731e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+            <sys_update_name>sys_ui_section_69fc53c927d30210d990e558e5f731e7</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-07-08 12:31:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1464392_servic_0)" name="custom_portal_approval_x_1464392_servic_0">69fc53c9e3d30210add1e4cdf23320e6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</application>
+        <file_path/>
+        <instance_id>c7d9062fdb127d9002d9172913961950</instance_id>
+        <instance_name>dev210842</instance_name>
+        <name>sys_ui_section_69fc53c927d30210d990e558e5f731e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="69fc53c927d30210d990e558e5f731e7" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1464392_servic_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 12:31:04</sys_created_on><sys_id>2dfc53c9e2d30210ece2d00a98db03e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="69fc53c9e3d30210add1e4cdf23320e6">69fc53c927d30210d990e558e5f731e7</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 12:31:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 12:31:04</sys_created_on><sys_id>25fc53c91ed302106b093f20bcddbbe7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="69fc53c9e3d30210add1e4cdf23320e6">69fc53c927d30210d990e558e5f731e7</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 12:31:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 12:31:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69fc53c927d30210d990e558e5f731e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package><sys_policy/><sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope><sys_update_name>sys_ui_section_69fc53c927d30210d990e558e5f731e7</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 12:31:04</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1464392_servic_0)" name="custom_portal_approval_x_1464392_servic_0">69fc53c9e3d30210add1e4cdf23320e6</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>339549573</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>e901f40047130210b52beb0f316d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-07-04 21:25:55</sys_created_on>
+        <sys_id>5610981d47d70210b52beb0f316d434c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1907fa3bab80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>1610981d43d702106f98b1b31ad9594c</update_guid>
+        <update_guid_history>1610981d43d702106f98b1b31ad9594c:339549573</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 16:14:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>bc27a6e80bdb4929b906238ce0210129</sys_id>
+        <sys_metadata>69fc53c927d30210d990e558e5f731e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_parent display_value="Sysapproval Approver">21a77308e492021008dda4ccc40080ad</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_scope_delete display_value="">290526a5ddd240ba9b1138838a9cc5a4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_69fc53c927d30210d990e558e5f731e7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_69fc53c927d30210d990e558e5f731e7">5610981d47d70210b52beb0f316d434c</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 16:14:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

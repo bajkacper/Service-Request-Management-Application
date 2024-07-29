@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">99ee0c99a7d702109b5a379966017805</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 16:09:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddee0c9910d70210d99c0923b332db06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>m2m_app_config_theme_ddee0c9910d70210d99c0923b332db06</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 16:09:15</sys_updated_on>
+        <theme display_value="Light Theme">5dee0c99b6d70210292dd702145d9805</theme>
+        <ux_app_configuration display_value="">09eec89947d70210b52beb0f316d434f</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</application>
+        <file_path/>
+        <instance_id>c7d9062fdb127d9002d9172913961950</instance_id>
+        <instance_name>dev210842</instance_name>
+        <name>m2m_app_config_theme_ddee0c9910d70210d99c0923b332db06</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">99ee0c99a7d702109b5a379966017805</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 16:09:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ddee0c9910d70210d99c0923b332db06</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package><sys_policy/><sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope><sys_update_name>m2m_app_config_theme_ddee0c9910d70210d99c0923b332db06</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 16:09:15</sys_updated_on><theme display_value="Light Theme">5dee0c99b6d70210292dd702145d9805</theme><ux_app_configuration display_value="">09eec89947d70210b52beb0f316d434f</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1483672663</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e901f40047130210b52beb0f316d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-07-04 21:25:55</sys_created_on>
+        <sys_id>09df041d47d70210b52beb0f316d4396</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1907fa3bab80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>c5df041d17d702105d4fa390787dcb96</update_guid>
+        <update_guid_history>c5df041d17d702105d4fa390787dcb96:1483672663</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">41df041d47d70210b52beb0f316d4397</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 16:13:18</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>03dd8e8be8de444889775ac6957b0e40</sys_id>
+        <sys_metadata>ddee0c9910d70210d99c0923b332db06</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_scope_delete display_value="">290526a5ddd240ba9b1138838a9cc5a4</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_ddee0c9910d70210d99c0923b332db06</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_ddee0c9910d70210d99c0923b332db06">09df041d47d70210b52beb0f316d4396</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 16:13:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

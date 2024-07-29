@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">08e03840473b0210b52beb0f316d4398</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">10e03840553b0210409f6e2f919644f6</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-29 17:56:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>18e038408a3b0210ddc8b5552ec562d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_ux_page_property_18e038408a3b0210ddc8b5552ec562d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-29 17:56:47</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1464392_servic_0.08e03840473b0210b52beb0f316d4398.route.chrome_header.10e03840553b0210409f6e2f919644f6</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</application>
+        <file_path/>
+        <instance_id>c7d9062fdb127d9002d9172913961950</instance_id>
+        <instance_name>dev210842</instance_name>
+        <name>sys_ux_page_property_18e038408a3b0210ddc8b5552ec562d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">08e03840473b0210b52beb0f316d4398</page><required_translations>[]</required_translations><route display_value="Search Page">10e03840553b0210409f6e2f919644f6</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-07-29 17:56:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>18e038408a3b0210ddc8b5552ec562d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package><sys_policy/><sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope><sys_update_name>sys_ux_page_property_18e038408a3b0210ddc8b5552ec562d6</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-29 17:56:47</sys_updated_on><type>json</type><unique_name>x_1464392_servic_0.08e03840473b0210b52beb0f316d4398.route.chrome_header.10e03840553b0210409f6e2f919644f6</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1735099273</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>e901f40047130210b52beb0f316d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-07-04 21:25:55</sys_created_on>
+        <sys_id>e521f080473b0210b52beb0f316d43cf</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1907fa3bab80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a521f0808d3b0210a174a2eac31c61cf</update_guid>
+        <update_guid_history>a521f0808d3b0210a174a2eac31c61cf:-1735099273</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-29 17:57:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>5af789c562fa4e2c899556b260a7fbe1</sys_id>
+        <sys_metadata>18e038408a3b0210ddc8b5552ec562d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_scope_delete display_value="">290526a5ddd240ba9b1138838a9cc5a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_18e038408a3b0210ddc8b5552ec562d6</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_18e038408a3b0210ddc8b5552ec562d6">e521f080473b0210b52beb0f316d43cf</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-29 17:57:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

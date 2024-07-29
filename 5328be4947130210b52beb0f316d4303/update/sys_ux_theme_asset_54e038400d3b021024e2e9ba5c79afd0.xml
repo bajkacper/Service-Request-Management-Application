@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>now-logo-dark</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-29 17:56:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>54e038400d3b021024e2e9ba5c79afd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now-logo-dark</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_54e038400d3b021024e2e9ba5c79afd0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-29 17:56:45</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ServiceNow_logo_GG.png</file_name>
+        <hash>3adf8faeb55a761e53bd75370f757907171b0f9e7305c8663dcddcc8a297871c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>9149</size_bytes>
+        <size_compressed>9023</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-29 17:56:45</sys_created_on>
+        <sys_id>18e03840a33b0210f5487319edd4aed0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-29 17:56:45</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>54e038400d3b021024e2e9ba5c79afd0</table_sys_id>
+    </sys_attachment>
+</record_update>

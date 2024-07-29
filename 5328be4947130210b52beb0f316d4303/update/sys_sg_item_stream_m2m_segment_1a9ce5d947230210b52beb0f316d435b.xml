@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="de9ce5d947230210b52beb0f316d434c Item Stream">9a9ce5d947230210b52beb0f316d434e</item_stream>
+        <segment display_value="Requests Item Stream Segment">169ce5d947230210b52beb0f316d434e</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-21 09:14:19</sys_created_on>
+        <sys_id>1a9ce5d947230210b52beb0f316d435b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_1a9ce5d947230210b52beb0f316d435b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-21 09:14:19</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

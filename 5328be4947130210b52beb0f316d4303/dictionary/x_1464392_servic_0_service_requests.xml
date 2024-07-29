@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6226030d47530210b52beb0f316d43ec" label="Service Requests" max_length="40" name="x_1464392_servic_0_service_requests" type="collection">
+        <element label="Title" mandatory="true" max_length="40" name="title" type="string"/>
+        <element choice="1" default="New" function_definition="New" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="closed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Resolved" sequence="2" value="resolved"/>
+            </choice>
+        </element>
+        <element label="SLA" max_length="32" name="sla" reference="x_1464392_servic_0_service_level_agreements" type="reference"/>
+        <element label="Customer" mandatory="true" max_length="32" name="customer" reference="x_1464392_servic_0_customers" type="reference"/>
+        <element label="Description" mandatory="true" max_length="40" name="description" type="string"/>
+        <element label="Request ID" mandatory="true" max_length="40" name="request_id" read_only="true" type="string"/>
+        <element label="Category" mandatory="true" max_length="32" name="category" reference="x_1464392_servic_0_categories" type="reference"/>
+        <element label="Priority" mandatory="true" max_length="32" name="priority" reference="x_1464392_servic_0_priorities" type="reference"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Resolution Notes" max_length="40" name="resolution_notes" type="string"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="category"/>
+        </index>
+        <index name="index3">
+            <element name="customer"/>
+        </index>
+        <index name="index4">
+            <element name="priority"/>
+        </index>
+        <index name="index5">
+            <element name="sla"/>
+        </index>
+        <index name="index6">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

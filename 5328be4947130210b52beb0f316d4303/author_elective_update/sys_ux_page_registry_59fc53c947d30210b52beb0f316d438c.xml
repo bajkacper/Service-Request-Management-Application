@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>5dfc53c947d30210b52beb0f316d438c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>service-request-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 12:31:08</sys_created_on>
+        <sys_id>59fc53c947d30210b52beb0f316d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request Portal</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_ux_page_registry_59fc53c947d30210b52beb0f316d438c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 12:31:08</sys_updated_on>
+        <title>Service Request Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</application>
+        <file_path/>
+        <instance_id>c7d9062fdb127d9002d9172913961950</instance_id>
+        <instance_name>dev210842</instance_name>
+        <name>sys_ux_page_registry_59fc53c947d30210b52beb0f316d438c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>5dfc53c947d30210b52beb0f316d438c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app><path>service-request-portal</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-07-08 12:31:08</sys_created_on><sys_id>59fc53c947d30210b52beb0f316d438c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Request Portal</sys_name><sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package><sys_policy/><sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope><sys_update_name>sys_ux_page_registry_59fc53c947d30210b52beb0f316d438c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-07-08 12:31:08</sys_updated_on><title>Service Request Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>145935793</payload_hash>
+        <record_name>Service Request Portal</record_name>
+        <reverted_from/>
+        <source>e901f40047130210b52beb0f316d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-07-04 21:25:55</sys_created_on>
+        <sys_id>2a532b0547170210b52beb0f316d43fb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1907fa3bab80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>e6532b05a317021087cd47f96def66fb</update_guid>
+        <update_guid_history>e6532b05a317021087cd47f96def66fb:145935793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 12:59:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>6c3138c17e21408fba3971d7822ffcc1</sys_id>
+        <sys_metadata>59fc53c947d30210b52beb0f316d438c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request Portal</sys_name>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_scope_delete display_value="">290526a5ddd240ba9b1138838a9cc5a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_59fc53c947d30210b52beb0f316d438c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_59fc53c947d30210b52beb0f316d438c">2a532b0547170210b52beb0f316d43fb</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 12:59:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

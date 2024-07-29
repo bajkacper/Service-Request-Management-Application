@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">1cb9634d5d1702100493afe7fe333b67</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">dcb9634d69170210e65cea15d8b0bf40</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 13:26:42</sys_created_on>
+        <sys_id>98b9634d92170210ea1bfcd422ff4c39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Request Management Application" source="x_1464392_servic_0">5328be4947130210b52beb0f316d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Management Application">5328be4947130210b52beb0f316d4303</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_98b9634d92170210ea1bfcd422ff4c39</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 13:26:42</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
