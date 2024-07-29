@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Service Request Management Application** is very simple, designed to streamline the process of managing service requests. It provides a user-friendly interface for creating, tracking, and resolving requests efficiently.
+The **Service Request Management Application** is very simple app created in Servicenow, designed to streamline the process of managing service requests. It provides a user-friendly interface for creating, tracking, and resolving requests efficiently.
 
 ## Features
 
@@ -18,11 +18,7 @@ The **Service Request Management Application** is very simple, designed to strea
    ```bash
    git clone https://github.com/bajkacper/Service-Request-Management-Application
    ```
-2. Navigate to the project directory:
-    ```bash
-    cd 
-    ```
-3. Deploy the application to your ServiceNow instance.
+2. Deploy the application to your ServiceNow instance.
 
 ## Usage
 1. Log in to your ServiceNow instance.
